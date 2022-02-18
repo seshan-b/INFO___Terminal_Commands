@@ -41,11 +41,11 @@
 
 `**wsl --export [Image Name] [Export location file name.tar]`** — Run the export command to save your distro in the desired location.
 
-![Example Screenshot to check your distro](Terminal%20C%209657b/Listing-your-installed-Windows-Subsystem-for-Linux-WSL-images-1.png)
+![Example Screenshot to check your distro](Listing-your-installed-Windows-Subsystem-for-Linux-WSL-images-1.png)
 
 Example Screenshot to check your distro
 
-![Example Screenshot to export to a backup folder](Terminal%20C%209657b/Using-the-WSL-export-command-to-export-a-WSL2-Ubuntu-20.04-image.png)
+![Example Screenshot to export to a backup folder](Using-the-WSL-export-command-to-export-a-WSL2-Ubuntu-20.04-image.png)
 
 Example Screenshot to export to a backup folder
 
