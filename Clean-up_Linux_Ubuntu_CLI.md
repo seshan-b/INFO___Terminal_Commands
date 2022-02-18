@@ -16,7 +16,7 @@
 
 <aside>
 ℹ️ `**find . -name "node_modules" -type d -prune -print | xargs du -chs**` — Find all Node modules in folder and all it’s child folders.
-
+<br/>
 <aside>
 🚫 Do not use it in the parent folder where the NVM “Node Version Modules” are stored otherwise you might have to reinstall NVM again.  Sometimes it might mess up the set up. **Be extra careful when using this command.**
 
@@ -28,7 +28,7 @@
 
 <aside>
 ℹ️ `**find . -name ".DS_Store"`** — To find all the `.DS_Store` files in all subdirectories on my machine.
-
+<br/>
 <aside>
 🚫 `**find . -name ".DS_Store" -delete`** — To find all the `.DS_Store` files in all subdirectories on my machine and delete it. Make sure you are in the correct directory before you run this command.
 
